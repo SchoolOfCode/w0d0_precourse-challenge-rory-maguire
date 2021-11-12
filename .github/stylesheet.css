@@ -1,0 +1,113 @@
+body{
+background-color:#707078;
+margin: 0;
+padding:0;
+color: #303036;
+}
+
+#bg-div{
+    width: 100vw;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner1{
+    background-image: url(./trees-img.JPEG);
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+#title{ 
+    color:#303036;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4.7vw;
+}
+
+
+
+#bg-image{
+background-image: url(./house-img.JPEG);
+max-width: 100vw;
+}
+
+#img-caption{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:#303036 ;
+font-size: 1.8vw;
+text-align: center;
+}
+
+#tribute-info{
+color:#303036;
+font-size: 1.8vw;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 10px;
+line-height: 50px;
+}
+
+#img-div{
+    size: 100vw;
+}
+
+#image {
+    max-width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    }
+
+.facts-text{
+    /* display: block; */
+    color:#303036;
+    font-size: 1.8vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 30px;
+
+}
+    
+.poem{
+color:#303036;
+font-size: 1.8vw;
+line-height: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+#link2{
+    text-decoration: none;
+}
+
+#tribute-link{
+    text-decoration: none;
+}
+
+#food-link{
+    text-decoration: none;
+}
+
+.last-img{
+    background-image: url(./view\ down\ into\ rosthwaite\ 3\ .JPEG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+/* .navbar li {
+    display: inline-block;
+    margin-top: 10px;
+} */
+
+
+
+
+
+
+
+
